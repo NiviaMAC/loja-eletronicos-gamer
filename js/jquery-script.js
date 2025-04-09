@@ -6,4 +6,4 @@ $(document).ready(function(){//O jquery é uma biblioteca que visa minimizar o c
         $("#section-login").slideToggle("slow");
         $("#botao-cadastrar").hide(); //Neste código do jquery, o 'hide' funcionará da seguinte forma: o formulário deverá ser escondido (hide).
     });
-}); 
+});
